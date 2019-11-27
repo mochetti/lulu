@@ -18,7 +18,7 @@ css(defaultLatter,{
 	border: "none"
 });
 
-var sentense = “Loira, obrigado pelos melhores meses da minha vida...”.split("");
+var sentense = "Loira, obrigado pelos melhores meses da minha vida...".split("");
 
 var lastPos = null;
 
